@@ -1,0 +1,9 @@
+body{
+    background-color: darksalmon;
+}
+
+#camera{
+    width: 360;
+    height: 350;
+    border:5px dashed black;
+}
